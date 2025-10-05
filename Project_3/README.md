@@ -7,7 +7,6 @@
 </p>
 
 
-
 ### 📌 Overview
 
 This project aims to explore and analyze a dataset containing information about music tracks on Spotify and YouTube using **SQL queries**. The dataset includes track metadata such as artist, album, streams, energy, danceability, likes, comments, video information, and more.
