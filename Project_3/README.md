@@ -3,8 +3,10 @@
 ## 🎵 Spotify Music Data Analysis – SQL Project
 
 <p align="center">
-  <img src="spotify-logo.png" alt="Spotify Logo" width="300"/>
+  <img src="https://github.com/user-attachments/assets/aa562904-be35-4fa4-a9e1-4676f7c96bf1" alt="Spotify Logo" width="800"/>
 </p>
+
+
 
 ### 📌 Overview
 
